@@ -1,5 +1,6 @@
 ## How to
 **1. Open command Prompt**
+
 **2. streamlit run newNaive.py**
 
 # Welcome to Streamlit :wave:
