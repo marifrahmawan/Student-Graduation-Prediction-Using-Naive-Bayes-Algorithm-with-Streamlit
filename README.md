@@ -1,3 +1,6 @@
+## 1. Open command Prompt
+## 2. streamlit run newNaive.py
+
 # Welcome to Streamlit :wave:
 
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
